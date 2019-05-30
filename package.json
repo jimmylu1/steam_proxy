@@ -1,0 +1,25 @@
+{
+  "name": "steam_proxy",
+  "version": "1.0.0",
+  "description": "Implement steam proxy server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmylu1/steam_proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmylu1/steam_proxy/issues"
+  },
+  "homepage": "https://github.com/jimmylu1/steam_proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
+}
