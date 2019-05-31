@@ -1,0 +1,10 @@
+body {
+  background: url(https://steamcdn-a.akamaihd.net/steam/apps/570/page_bg_generated_v6b.jpg?t=1557267263)
+    no-repeat fixed 100% 100%;
+  background-size: cover;
+}
+
+.container {
+  margin: auto;
+  max-width: 940px;
+}
